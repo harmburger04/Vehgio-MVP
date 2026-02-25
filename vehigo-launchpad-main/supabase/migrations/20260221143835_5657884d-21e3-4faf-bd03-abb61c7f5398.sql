@@ -1,0 +1,1 @@
+ALTER TABLE public.shops ADD CONSTRAINT shops_shop_name_unique UNIQUE (shop_name);
